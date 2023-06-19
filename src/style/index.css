@@ -1,0 +1,193 @@
+:root{
+    width: 550px;
+    height: 853px;
+    
+}
+
+body{
+    /* position: relative; */
+    width: 550px;
+    height: 853px;
+    
+    background: #FFFFFF;
+    color: black;
+    /* border-radius: 8.95px; */
+}
+
+.nav{
+    position: absolute;
+width: 630px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    position: absolute;
+width: 82.02px;
+height: 25.35px;
+left: 30px;
+top: 22px;
+color:FF5A5F;
+}
+.group77{
+    position: absolute;
+    width: 395.91px;
+    height: 232px;
+    left: 77px;
+    top: 96px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+h1{
+    position: absolute;
+width: 347px;
+height: 40px;
+left: 56px;
+top: 330px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight:bold;
+font-size: 36px;
+line-height: 110%;
+    /* identical to box height, or 40px */
+    
+    
+    color: #000000;
+}
+p{
+ 
+position: absolute;
+width: 320px;
+height: 56px;
+left: 56px;
+top: 390px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+
+color:black;
+}
+.p1{
+    position: absolute;
+    width: 176px;
+    height: 235px;
+    left: 37px;
+    top: 521px;
+    
+    background: url(image.png);
+    border-radius: 9px;
+}
+.p2{
+    position: absolute;
+width: 176px;
+height: 235px;
+left: 231px;
+top: 521px;
+
+background: url(wedding-photography);
+border-radius: 9px;
+}
+.p3{
+    position: absolute;
+width: 176px;
+height: 235px;
+left: 425px;
+top: 521px;
+
+background: url(mountain-bike);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 9px;
+}
+.s1{
+    position: absolute;
+width: 61px;
+height: 20px;
+left: 43px;
+top: 527px;
+
+background: #FFFFFF;
+border-radius: 2px;
+position: absolute;
+width: 49px;
+height: 11px;
+left: 49px;
+top: 522px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 10.24px;
+line-height: 110%;
+/* or 11px */
+
+text-align: center;
+
+color: #222222;
+}
+.s2{
+    position: absolute;
+width: 61px;
+height: 20px;
+left: 43px;
+top: 527px;
+
+background: #FFFFFF;
+border-radius: 2px;
+position: absolute;
+width: 49px;
+height: 11px;
+left: 252px;
+top: 522px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 10.24px;
+line-height: 110%;
+/* or 11px */
+
+text-align: center;
+
+color: #222222;
+}
+/* .lower1{
+    position: absolute;
+width: 176px;
+height: 58px;
+left: 36px;
+top: 765px;
+} */
+.detail1{
+    position: absolute;
+width: 176px;
+height: 58px;
+left: 46px;
+top: 765px;
+
+}
+.detail2{
+    position: absolute;
+width: 176px;
+height: 58px;
+left: 230px;
+top: 765px;
+
+}
+.detail3{
+   
+position: absolute;
+width: 176px;
+height: 58px;
+left: 424px;
+top: 765px;
+
+}

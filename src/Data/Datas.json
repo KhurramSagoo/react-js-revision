@@ -1,0 +1,34 @@
+ [
+      {
+        "id":"1",
+        "name": "Object 1",
+        "color": "Red",
+        "size": "Small"
+      },
+      {
+        "id":"2",
+        "name": "Object 2",
+        "color": "Blue",
+        "size": "Medium"
+      },
+      {
+        "id":"3",
+        "name": "Object 3",
+        "color": "Green",
+        "size": "Large"
+      },
+      {
+        "id":"4",
+        "name": "Object 4",
+        "color": "Yellow",
+        "size": "Small"
+      },
+      {"id":"5",
+        "name": "Object 5",
+        "color": "Purple",
+        "size": "Large"
+      }
+    ]
+  
+
+  
